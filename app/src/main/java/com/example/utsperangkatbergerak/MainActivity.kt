@@ -50,17 +50,17 @@ fun BusinessCard() {
         )
         Spacer(modifier = Modifier.height(16.dp))
         Text(
-            text = "Nama Kamu",
+            text = "cayo",
             fontSize = 24.sp,
             fontWeight = FontWeight.Bold
         )
         Text(
-            text = "Android Developer Extraordinaire",
+            text = "Android UTS PERANGKAT BERGERAK",
             fontSize = 16.sp
         )
         Spacer(modifier = Modifier.height(32.dp))
-        Text(text = "📞 +62 812-xxxx-xxxx")
-        Text(text = "✉️ emailkamu@example.com")
+        Text(text = "📞 +62 86666")
+        Text(text = "✉️ .com")
     }
 }
 
